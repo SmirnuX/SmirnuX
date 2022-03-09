@@ -1,4 +1,5 @@
 ### Hi there 👋
+ - I'm student at Moscow Aviation Institite, studying Informatics and Computer Engineering
  - My main programming languages are C/C++, but I'm excited to learn more!
  - I have some exprerience in 
  -  - such languages as Dart, C# (and small amount in PHP, Javascript, Haskell)
