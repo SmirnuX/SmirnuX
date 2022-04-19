@@ -5,4 +5,6 @@
  -  - such languages as Dart, C# (and small amount in PHP, Javascript, Verilog, Haskell)
  -  - such frameworks as Qt, Flutter (small amount in Unity and Godot) 
  -  - Git, Linux, networking, 3D graphics, algorithms - and I'm ready to improve myself in this and other fields. 
- - I'm looking for work on operating systems or game engines, but also want to try myself in other fields.
+ - I'm looking for work on operating systems, 3D engines and physic simulation, but also want to try myself in other fields.
+
+https://leetcode.com/SmirnuX/
