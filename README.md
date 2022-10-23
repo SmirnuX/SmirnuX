@@ -10,4 +10,4 @@
 ### Profiles 👤
 LeetCode: https://leetcode.com/SmirnuX/
 
-HackerRankhttps: https://www.hackerrank.com/xomafok
+HackerRank: https://www.hackerrank.com/xomafok
