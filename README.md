@@ -1,4 +1,4 @@
-### Resume 📄
+### Resume (outdated) 📄
 [Resume in English](https://smirnux.github.io/tipa-resume)
 
 [Resume in Russian](https://smirnux.github.io/tipa-resume/ru)
